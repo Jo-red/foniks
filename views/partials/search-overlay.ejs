@@ -1,0 +1,26 @@
+<div class="search-overlay" data-search-overlay hidden>
+  <div class="search-overlay__dialog" role="dialog" aria-modal="true" aria-labelledby="search-title">
+    <div class="search-overlay__header">
+      <div>
+        <p class="eyebrow">Søk</p>
+        <h2 id="search-title">Finn artikler i arkivet</h2>
+      </div>
+      <button class="search-close" type="button" data-close-search aria-label="Lukk søk">×</button>
+    </div>
+
+    <form class="search-form" action="/search" method="get">
+      <div class="search-form__row">
+        <input
+          class="search-form__input"
+          type="search"
+          name="q"
+          placeholder="Søk etter artikler, temaer og forfattere"
+          autocomplete="off"
+          data-search-input
+        >
+        <button class="search-form__submit" type="submit">Søk</button>
+      </div>
+      <p class="search-form__hint">Trykk <strong>/</strong> for å åpne søk raskt.</p>
+    </form>
+  </div>
+</div>

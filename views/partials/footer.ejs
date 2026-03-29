@@ -1,0 +1,39 @@
+<footer class="site-footer">
+  <div class="site-footer__inner shell">
+    <a class="site-footer__brand" href="/">
+      <span class="wordmark"><%= site.name %></span>
+      <span class="site-footer__tagline"><%= site.tagline %></span>
+    </a>
+
+    <ul class="social-links" aria-label="Social media">
+      <li>
+        <a href="https://x.com/FoniksMag" target="_blank" rel="noopener noreferrer" aria-label="X">
+          <span aria-hidden="true">X</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.facebook.com/konservativrenessanse" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+          <span aria-hidden="true">f</span>
+        </a>
+      </li>
+      <li>
+        <a href="/latest" aria-label="Latest">
+          <span aria-hidden="true">rss</span>
+        </a>
+      </li>
+    </ul>
+
+    <p class="site-footer__copy">
+      &copy; <%= currentYear %> <%= site.name %>
+      <span> - <%= site.tagline %></span>
+    </p>
+  </div>
+</footer>
+
+<a class="floating-subscribe" href="#/portal/signup">
+  <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+    <path d="M3 6.75h18v10.5H3z" fill="none" stroke="currentColor" stroke-width="1.8"></path>
+    <path d="m4.5 8.25 7.5 6 7.5-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+  </svg>
+  <span>Subscribe</span>
+</a>

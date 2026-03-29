@@ -1,0 +1,664 @@
+{
+  "sections": [
+    {
+      "slug": "opinion",
+      "name": "Mening",
+      "description": "Kommentarer, essays og politiske perspektiver.",
+      "navOrder": 1
+    },
+    {
+      "slug": "news",
+      "name": "Nyheter",
+      "description": "Rapportering, analyse og offentlig debatt.",
+      "navOrder": 2
+    },
+    {
+      "slug": "culture",
+      "name": "Kultur",
+      "description": "Kulturkritikk, idéhistorie og lengre refleksjoner.",
+      "navOrder": 3
+    },
+    {
+      "slug": "recommended",
+      "name": "Anbefalt",
+      "description": "Redaksjonens utvalgte tekster fra arkivet.",
+      "navOrder": 4
+    }
+  ],
+  "articles": [
+    {
+      "title": "Skjebnevalg i Danmark",
+      "url": "https://foniks.faks.no/2026/03/23/https-foniks-faks-no-skjebnevalg-i-danmark/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2026/03/image.png?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "\"...der vi egentlig bare har Frp, har Danmark hele fire partier i Folketinget som befinner seg til høyre for det norske Høyre.\"",
+      "publishedAt": "2026-03-22T23:00:00.000Z",
+      "recommended": false,
+      "sections": [
+        "opinion",
+        "news"
+      ]
+    },
+    {
+      "title": "Mening: Ikke drep monarkiet!",
+      "url": "https://foniks.faks.no/2026/02/23/foniks-faks-no-ikke-drep-monarkiet/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2026/02/image-2.png?resize=480%2C384&ssl=1",
+      "kicker": "Kultur",
+      "excerpt": "«Å bryte med monarkiet vil bety å kvitte seg med en svært viktig og unik del av vår historie.»",
+      "publishedAt": "2026-02-22T23:00:00.000Z",
+      "recommended": false,
+      "sections": [
+        "opinion",
+        "culture"
+      ]
+    },
+    {
+      "title": "Er nasjonalstaten en konservativ ide?",
+      "url": "https://foniks.faks.no/2026/02/11/er-nasjonalstaten-en-konservativ-ide/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2026/02/image-1.png?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "Nasjonalstaten skred frem i Europa blant et myriader av familiedynastier og imperier. Men er nasjonalstaten egentlig en konservativ ide?",
+      "publishedAt": "2026-02-10T23:00:00.000Z",
+      "recommended": false,
+      "sections": [
+        "opinion",
+        "news"
+      ]
+    },
+    {
+      "title": "Hva feirer vi 17. Mai?",
+      "url": "https://foniks.faks.no/2025/11/15/hva-feirer-vi-17-mai/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2025/11/image.jpeg?resize=480%2C384&ssl=1",
+      "kicker": "Historie",
+      "excerpt": "«Nå jobber jeg med et helnorsk arbeidslag, og skjelner tydelige vakre fellestrekk med nordmenn flest: ydmykhet, rettskaffenhet, ærlighet, dugnadsånd, barmhjertighet.»",
+      "publishedAt": "2025-11-14T23:00:00.000Z",
+      "recommended": false,
+      "sections": [
+        "news"
+      ]
+    },
+    {
+      "title": "Den liberalkonservative svanesang",
+      "url": "https://foniks.faks.no/2025/09/06/den-liberalkonservative-svanesang/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2025/09/image.png?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "Vil Erna Solbergs Høyre klare å gjenvinne statsministerens kontor? Eller har Norges liberalkonservative alternativ blitt spilt ut på sidelinjen?",
+      "publishedAt": "2025-09-05T22:00:00.000Z",
+      "recommended": false,
+      "sections": [
+        "opinion"
+      ]
+    },
+    {
+      "title": "Mellom Leviathan og Mammon – konservatisme hinsides sosialisme og kapitalisme",
+      "url": "https://foniks.faks.no/2025/09/06/mellom-leviathan-og-mammon/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2025/09/image-1.png?resize=480%2C384&ssl=1",
+      "kicker": "Filosofi",
+      "excerpt": "«Midt i alle tumultene til norsk økonomi trengs det, i min mening, mer enn noensinne et fornyet søkelys på kapitalkritisk konservatisme.»",
+      "publishedAt": "2025-09-05T22:00:00.000Z",
+      "recommended": true,
+      "sections": [
+        "opinion",
+        "recommended"
+      ]
+    },
+    {
+      "title": "Et skip verdig vikingene",
+      "url": "https://foniks.faks.no/2025/08/27/et-skip-verdig-vikingene/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2025/08/image.png?resize=480%2C384&ssl=1",
+      "kicker": "Kultur",
+      "excerpt": "I Tyrifjorden er en ny, norsk kulturskatt bygget - med god hjelp av tradisjonelle verktøy!",
+      "publishedAt": "2025-08-26T22:00:00.000Z",
+      "recommended": false,
+      "sections": [
+        "culture"
+      ]
+    },
+    {
+      "title": "Patologisering av det normale",
+      "url": "https://foniks.faks.no/2025/03/24/patologisering-av-det-normale/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2025/03/image-1.png?resize=480%2C384&ssl=1",
+      "kicker": "Historie",
+      "excerpt": "Hvis man vil forstå opphavet til woke-ideologien, må man tilbake til radikale bevegelser på vestlige universiteter i tiden etter andre verdenskrig.",
+      "publishedAt": "2025-03-23T23:00:00.000Z",
+      "recommended": false,
+      "sections": [
+        "news",
+        "culture"
+      ]
+    },
+    {
+      "title": "Reisebrev fra ARC 2025",
+      "url": "https://foniks.faks.no/2025/03/15/https-foniks-faks-no-2025-03-15-arc-reisebrev/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2025/03/jordan-peterson.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Kultur",
+      "excerpt": "Jordan Peterson og Nigel Farage var bare to av de store navnene som deltok på ARC, den største konferansen for liberale og konservative i",
+      "publishedAt": "2025-03-14T23:00:00.000Z",
+      "recommended": false,
+      "sections": [
+        "culture"
+      ]
+    },
+    {
+      "title": "Senterpartiets (foreløpige) uttreden ut av det rødgrønne",
+      "url": "https://foniks.faks.no/2025/02/20/senterpartiets-forelopige-uttreden-ut-av-det-rodgronne/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2025/02/Trygve_Slagsvold_Vedum_2017-03-23_bilde03.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "Hvordan endte et av de mest tradisjonelle partiene opp med AP og hvorfor går de nå ut av dette samarbeidet?",
+      "publishedAt": "2025-02-19T23:00:00.000Z",
+      "recommended": false,
+      "sections": [
+        "opinion"
+      ]
+    },
+    {
+      "title": "Pornografien og dens skyggesider",
+      "url": "https://foniks.faks.no/2025/02/01/pornografien-og-dens-skyggesider/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2025/02/Sandra.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Kultur",
+      "excerpt": "Vi som samfunn burde anerkjenne pornografiens destruktive innvirkning på relasjoner og ikke minst nasjonens viktigste byggestein, familien.",
+      "publishedAt": "2025-01-31T23:00:00.000Z",
+      "recommended": false,
+      "sections": [
+        "opinion",
+        "culture"
+      ]
+    },
+    {
+      "title": "Trafikklyskoalisjonen parkeres",
+      "url": "https://foniks.faks.no/2025/01/23/https-foniks-faks-no-2025-01-23-trafikklyskoalisjonen-parkeres/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2025/01/image-3.png?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "Etter valgåret 2024 skal det mye til for at 2025 blir mer spennende.",
+      "publishedAt": "2025-01-22T23:00:00.000Z",
+      "recommended": false,
+      "sections": [
+        "opinion"
+      ]
+    },
+    {
+      "title": "Innenriksminister i Frankrike marker seg til høyre",
+      "url": "https://foniks.faks.no/2024/10/02/innenriksminister-i-frankrike-marker-seg-til-hoyre/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/10/Skjermbilde-2024-10-02-kl.-23.32.42.png?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "Frankrikes innenriksminister vil ha «mer trygghet, mindre innvandring».",
+      "publishedAt": "2024-10-01T22:00:00.000Z",
+      "recommended": false,
+      "sections": [
+        "news"
+      ]
+    },
+    {
+      "title": "Bronsealder-pervoen",
+      "url": "https://foniks.faks.no/2024/09/06/bronsealder-pervoen/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/09/Bronze-age-mindset.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Filosofi",
+      "excerpt": "Er Bronze Age Pervert fremtiden til høyresiden?",
+      "publishedAt": "2024-09-05T22:00:00.000Z",
+      "recommended": true,
+      "sections": [
+        "recommended"
+      ]
+    },
+    {
+      "title": "Nietzsche i min favn",
+      "url": "https://foniks.faks.no/2024/08/20/nietzsche-i-min-favn/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/08/Las-diez-reglas-para-escribir-de-Nietzsche.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Bokanmeldelse",
+      "excerpt": "Hva kan vi få ut av Nietzsche i dag?",
+      "publishedAt": "2024-08-19T22:00:00.000Z",
+      "recommended": true,
+      "sections": [
+        "recommended"
+      ]
+    },
+    {
+      "title": "Situasjonen i England",
+      "url": "https://foniks.faks.no/2024/08/20/situasjonen-i-england/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/08/ENgland.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "Hva var det som forårsaket opptøyene i Storbritania?",
+      "publishedAt": "2024-08-19T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Bokanbefaling: Lee Strobels The Case for Christ",
+      "url": "https://foniks.faks.no/2024/08/10/bokanbefaling-lee-strobels-the-case-for-christ/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/08/caseforchrist-e1723314936175.webp?resize=390%2C301&ssl=1",
+      "kicker": "Bokanmeldelse",
+      "excerpt": "Mange ser nå mindre kritisk på kristendommen enn før, men finnes det grunn til å tro at trosartiklene er sanne?",
+      "publishedAt": "2024-08-09T22:00:00.000Z",
+      "recommended": true,
+      "sections": [
+        "recommended"
+      ]
+    },
+    {
+      "title": "Weimarrepublikken – Fra Versailles til diktatur",
+      "url": "https://foniks.faks.no/2024/07/16/weimarrepublikken-fra-versailles-til-diktatur/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/07/Hitler.jpeg?resize=450%2C326&ssl=1",
+      "kicker": "Historie",
+      "excerpt": "Hvordan det politiske landskapet i kjølevannet av første verdenskrig svekket Tysklands unge demokrati.",
+      "publishedAt": "2024-07-15T22:00:00.000Z",
+      "recommended": false,
+      "sections": [
+        "news"
+      ]
+    },
+    {
+      "title": "Mørkeblått daggry i Frankrike",
+      "url": "https://foniks.faks.no/2024/06/29/morkeblatt-daggry-i-frankrike/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/06/Skjermbilde-2024-06-29-kl.-21.42.32.png?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "Hva har drevet franskmenn til det punkt at de er i ferd med å gi overgi roret til Le Pens parti?",
+      "publishedAt": "2024-06-28T22:00:00.000Z",
+      "recommended": false,
+      "sections": [
+        "news"
+      ]
+    },
+    {
+      "title": "Geert Wilders danner regjering",
+      "url": "https://foniks.faks.no/2024/06/13/geert-wilders-danner-regjering/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/06/geert_wilders_tijdens_een_politieke_campagne_in_spijkenisse.jpeg?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "Omsider har valgvinneren i Nederland, Geert Wilders, klart å sette sammen en regjering.",
+      "publishedAt": "2024-06-12T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Hvorfor Knut Hamsun fortsatt bør leses",
+      "url": "https://foniks.faks.no/2024/06/09/hvorfor-knut-hamsun-fortsatt-bor-leses/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/06/Hamsun_bldsa_HA0249-1-scaled.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Litteratur",
+      "excerpt": "En kort appell til gode for å lese Knut Hamsun.",
+      "publishedAt": "2024-06-08T22:00:00.000Z",
+      "recommended": true,
+      "sections": [
+        "culture",
+        "recommended"
+      ]
+    },
+    {
+      "title": "Toryenes underlige død",
+      "url": "https://foniks.faks.no/2024/06/05/2024-06-05-toryenes-underlige-dod/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/06/Bilde_2024-06-05_151637876-e1718034824444.png?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "Toryene har ikke klart å drive konservativ politikk de siste 14 årene på tre nøkkelsaker.",
+      "publishedAt": "2024-06-04T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Kanon for konservative: Hva som er vårt",
+      "url": "https://foniks.faks.no/2024/05/27/kanon-for-konservative-hva-som-er-vart/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/05/octavian-smigelschi-young-man-reading.webp?resize=480%2C384&ssl=1",
+      "kicker": "Filosofi",
+      "excerpt": "Føniks presenterer den ultimate guiden til høyresidens tankeskatter.",
+      "publishedAt": "2024-05-26T22:00:00.000Z",
+      "recommended": true,
+      "sections": [
+        "news",
+        "culture",
+        "recommended"
+      ]
+    },
+    {
+      "title": "Referendum om demokrati i Europa",
+      "url": "https://foniks.faks.no/2024/05/19/referendum-om-demokrati-i-europa/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/05/European_Parliament_Strasbourg_Hemicycle_-_Diliff-scaled.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "Hva står på spill med det forestående EU-valget?",
+      "publishedAt": "2024-05-18T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Imot Svennebys kur",
+      "url": "https://foniks.faks.no/2024/05/13/imot-svennebys-kur/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/05/Ola_Svenneby_cropped.jpeg?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "Hvor godt belegg har Svenneby til å påstå at legalisering av cannabis er slik man reduserer rusmiddelets skader på samfunnet?",
+      "publishedAt": "2024-05-12T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Tanker om FAKS-konferansen: Konservativ ungdom – hvor går de?",
+      "url": "https://foniks.faks.no/2024/05/09/tanker-om-faks-konferansen-konservativ-ungdom-hvor-gar-de/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/05/IMG_8527-scaled.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "Er de unge konservative på ordentlig?",
+      "publishedAt": "2024-05-08T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Oikofili i norsk malerkunst: Fem ulike nivåer",
+      "url": "https://foniks.faks.no/2024/02/03/oikofili-i-norsk-malerkunst/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/06/isaachsen-scaled.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Filosofi",
+      "excerpt": "Sommernatten er essensiell og spesiell for den særegne stemningen som finnes bare i Skandinavia.",
+      "publishedAt": "2024-02-02T23:00:00.000Z",
+      "recommended": true,
+      "sections": [
+        "culture",
+        "recommended"
+      ]
+    },
+    {
+      "title": "Hvithetsstudienes tause røtter",
+      "url": "https://foniks.faks.no/2024/01/10/hvithetsstudienes-tause-rotter/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/01/slaveskip.png?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "En gjennomgang av idéene bak «wokeness», særlig hva gjelder rase og etnisitet.",
+      "publishedAt": "2024-01-09T23:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Det ansvarsløse Norge",
+      "url": "https://foniks.faks.no/2023/11/04/det-ansvarslose-norge/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2023/07/Wik-1-scaled.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Utenriks",
+      "excerpt": "Norge må ta større ansvar for egen sikkerhetssituasjon.",
+      "publishedAt": "2023-11-03T23:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Holbergs viktige verk om rettsstaten",
+      "url": "https://foniks.faks.no/2023/06/24/holbergs-viktige-verk-om-rettsstaten/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2023/07/Holberg-scaled-e1690633112213.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Bokanmeldelse",
+      "excerpt": "Et innblikk i en mindre kjent del av den store dikterens forfatterskap.",
+      "publishedAt": "2023-06-23T22:00:00.000Z",
+      "recommended": true,
+      "sections": [
+        "recommended"
+      ]
+    },
+    {
+      "title": "Våre to fedreland",
+      "url": "https://foniks.faks.no/2022/12/07/vare-to-fedreland/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/06/norsk-landskap.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Historie",
+      "excerpt": "Et fedreland er kontinuiteten som eksisterer mellom fortiden, nåtiden og fremtiden hos et folk.",
+      "publishedAt": "2022-12-06T23:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Om hagen",
+      "url": "https://foniks.faks.no/2022/09/29/om-hagen/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2022/06/Camille_Pissarro_-_In_the_Vegetable_Garden-scaled.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Filosofi",
+      "excerpt": "Vi kan ikke leve i hele verden på en gang - vi lever kun i våre egne hus, og med våre egne venner og",
+      "publishedAt": "2022-09-28T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Hjemmet i gresk-romersk tenkning",
+      "url": "https://foniks.faks.no/2022/08/03/hjemmet-i-gresk-romersk-tenkning/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2022/06/MANNapoli_124545_platos_academy_mosaic_enh_crop.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Filosofi",
+      "excerpt": "Nostalgi i sin opprinnelige betydning er ikke et ønske om å stille klokken tilbake. Det er en lengsel etter å høre hjemme i verden.",
+      "publishedAt": "2022-08-02T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Samarbeid på tvers av generasjoner",
+      "url": "https://foniks.faks.no/2022/06/25/samarbeid-pa-tvers-av-generasjoner/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2022/04/Slottann_i_Smanessan.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Filosofi",
+      "excerpt": "Hvilke konsekvenser hadde den industrielle revolusjon for vår tilhørighetsfølelse til familien og generasjonene før og etter oss? Og hva kan vi gjøre for de",
+      "publishedAt": "2022-06-24T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Konservatisme og klimasaken – venner eller bitre fiender?",
+      "url": "https://foniks.faks.no/2022/05/25/konservatisme-og-klimasaken/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2022/05/global_warming_by_f_ayn_t-d51qpk9.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Filosofi",
+      "excerpt": "Med utgangspunkt i Sir Roger Scrutons filosofi forsøker Jarl-Roar Simonsen å formulere en positiv visjon for en konservativ klimapolitikk.",
+      "publishedAt": "2022-05-24T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Vår nabo i øst – Vestens signifikante andre",
+      "url": "https://foniks.faks.no/2022/04/30/var-nabo-i-ost-vestens-signifikante-andre/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2022/04/russia-gb740ffb3f_1920.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "På samme måte som det individuelle jeget utformer sin identitet gjennom interaksjon med den andre, kan også stater defineres gjennom interaksjon med andre stater.",
+      "publishedAt": "2022-04-29T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Realisme eller utopisme?",
+      "url": "https://foniks.faks.no/2022/04/07/realisme-eller-utopisme/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2022/04/platonyaris.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Filosofi",
+      "excerpt": "Bør man ha en realistisk eller utopisk tilnærming til politikk? Det har vært diskutert siden antikken.",
+      "publishedAt": "2022-04-06T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "– Venstresiden vil at jeg skal være offer for rasisme",
+      "url": "https://foniks.faks.no/2022/01/27/rasisme-narrativ/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/aki3.png?resize=480%2C384&ssl=1",
+      "kicker": "Intervju",
+      "excerpt": "Fhv. formann for Reykjaviks multikulturelle råd, Acamapichtli Raul, forteller om hvordan han opplevde sosialt press for å fremstille hvite som rasister.",
+      "publishedAt": "2022-01-26T23:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Den annen front og intellektuell konservatisme i Norge",
+      "url": "https://foniks.faks.no/2021/06/12/den-annen-front/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/minerva2.png?resize=480%2C384&ssl=1",
+      "kicker": "Filosofi",
+      "excerpt": "Master i filosofi Øyvind J.V. Evenstad redegjør for det som har blitt kalt Den annen front i norsk kulturkamp.",
+      "publishedAt": "2021-06-11T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Velferdsstaten vel fjernet",
+      "url": "https://foniks.faks.no/2021/06/10/velferdsstaten-vel-fjernet/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/Vol2Nr1-Dohlen.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Filosofi",
+      "excerpt": "Den moderne velferdsstaten svekker det organiske samfunnet og undergraver de sosiale båndene mellom mennesker.",
+      "publishedAt": "2021-06-09T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Er flertallsavguderi virkelig det beste, Churchill?",
+      "url": "https://foniks.faks.no/2021/06/08/churchill/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/balt.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Politikk",
+      "excerpt": "Folkets makt forveksles med dets frihet. Det er blant det moderne liberale demokratis største problemer, om ikke det største.",
+      "publishedAt": "2021-06-07T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Den evigvarende konflikten",
+      "url": "https://foniks.faks.no/2021/06/07/den-evigvarende-konflikten/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/Vol2Nr1-Wik.png?resize=480%2C384&ssl=1",
+      "kicker": "Utenriks",
+      "excerpt": "Den væpnede konflikten mellom Armenia og Aserbajdsjan er mer eller mindre evigvarende.",
+      "publishedAt": "2021-06-06T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Er det plass til konservative studenter?",
+      "url": "https://foniks.faks.no/2021/06/06/er-det-plass-til-konservative-studenter/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/Vol2Nr1-Jordal.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Ytring",
+      "excerpt": "Er det plass til annerledestenkende med et mer konservativt verdenssyn på landets høyskoler og universiteter?",
+      "publishedAt": "2021-06-05T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Guds skjønne døtre – en inngang til Sigrid Undsets tenkning",
+      "url": "https://foniks.faks.no/2021/06/05/sigrid-undset/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2017/12/undset.png?resize=480%2C384&ssl=1",
+      "kicker": "Litteratur",
+      "excerpt": "Sigrid Undset var dypt mistroisk til tanken om historiens lineære gang mot «fremskrittet».",
+      "publishedAt": "2021-06-04T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Klaging og kritikk er ikke nok",
+      "url": "https://foniks.faks.no/2021/06/04/klaging-og-kritikk-er-ikke-nok/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/Vol2Nr1-Korsnes.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Ytring",
+      "excerpt": "Det er de som makter å formulere sine alternativer og hva de står for, og ikke bare hva de er imot, som setter dagsordenen.",
+      "publishedAt": "2021-06-03T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Kultur og tilhørighet i et etterkristent Europa",
+      "url": "https://foniks.faks.no/2021/06/03/kultur-og-tilhorighet-i-et-etterkristent-europa/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/heddal.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Kultur",
+      "excerpt": "Dersom en sivilisasjon skal overleve med det som er godt, er den også nødt til å overlevere sine grunnleggende verdier.",
+      "publishedAt": "2021-06-02T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Tekstil og tilhørighet",
+      "url": "https://foniks.faks.no/2021/06/02/tekstil-og-tilhorighet/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/christian-3.png?resize=480%2C384&ssl=1",
+      "kicker": "Kultur",
+      "excerpt": "Den moderne, konservative bevegelsen trenger et hverdagsplagg som egner seg like godt ute på småbruket som i gangene på Stortinget.",
+      "publishedAt": "2021-06-01T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Dikt av David Wikstøl",
+      "url": "https://foniks.faks.no/2021/06/01/16050/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/mose-lite.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Litteratur",
+      "excerpt": "Read the full article on foniks.faks.no.",
+      "publishedAt": "2021-05-31T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Ydmykhet, takknemlighet og kjærlighet",
+      "url": "https://foniks.faks.no/2021/06/01/takknemlighet/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/Foniks2-forside.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Leder",
+      "excerpt": "Konservative drives av kjærlighet.",
+      "publishedAt": "2021-05-31T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Nasjonalkonservatives mulighet",
+      "url": "https://foniks.faks.no/2021/05/29/nasjonalkonservatives-mulighet/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/Vol2Nr1-Eidsaa.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Filosofi",
+      "excerpt": "Nasjonalkonservatismen er både dristig og «snill» samtidig.",
+      "publishedAt": "2021-05-28T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Respekt for tradisjonen: Sir Roger Scruton in memoriam",
+      "url": "https://foniks.faks.no/2021/05/28/respekt-for-tradisjonen/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/Vol2Nr1-Scruton.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Filosofi",
+      "excerpt": "«Den mest innflytelsesrike konservative tenker siden Edmund Bruke», erklærte Washington Times.",
+      "publishedAt": "2021-05-27T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Hvordan ikke være konservativ",
+      "url": "https://foniks.faks.no/2020/08/04/hvordan-ikke-vaere-konservativ/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/oakshott-1024x732-1.png?resize=480%2C384&ssl=1",
+      "kicker": "Filosofi",
+      "excerpt": "En konservativ er en som mener at det finnes en uforanderlig og politisk normativ menneskenatur.",
+      "publishedAt": "2020-08-03T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Universitetenes immunsystem",
+      "url": "https://foniks.faks.no/2020/08/02/universitetenes-immunsystem/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/toje.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Ytring",
+      "excerpt": "Ideologisk forblindet forskning kan kun triumfere i akademiske fagmiljøer der de som kommer med motforestillinger, er kuet eller fordrevet.",
+      "publishedAt": "2020-08-01T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Robin DiAngelo og generaliseringene",
+      "url": "https://foniks.faks.no/2020/08/01/robin-diangelo-og-generaliseringene/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/10/diangelo2.png?resize=480%2C384&ssl=1",
+      "kicker": "Bokanmeldelse",
+      "excerpt": "«White Fragility» dømmer individualismen, fargeblindheten og etterkrigsliberalismen til døden.",
+      "publishedAt": "2020-07-31T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "Forlokkende fanatisme",
+      "url": "https://foniks.faks.no/2020/07/30/forlokkende-fanatisme/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2021/11/Jacques-louis_david_bozzetto_per_il_giuramento_degli_orazi_1786.jpg?resize=480%2C384&ssl=1",
+      "kicker": "Kunst",
+      "excerpt": "Jacques-Louis Davids maleri «Horatiernes ed» analyseres av Christian Hallvard Dahl-Nielsen, leder av FAKS Trondheim",
+      "publishedAt": "2020-07-29T22:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    },
+    {
+      "title": "– Norge er ikke en ung nasjon",
+      "url": "https://foniks.faks.no/2020/02/10/nasjonen/",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2020/02/brudekrone.png?resize=480%2C382&ssl=1",
+      "kicker": "Historie",
+      "excerpt": "Den norske nasjonalstaten som ble bygget opp etter 1814, var tuftet på en gammel nasjon, sier professor emeritus i historie ved Universitetet i Oslo,",
+      "publishedAt": "2020-02-09T23:00:00.000Z",
+      "recommended": false,
+      "sections": []
+    }
+  ],
+  "pages": [
+    {
+      "slug": "about",
+      "title": "Om FØNIKS",
+      "intro": "FØNIKS er et redaksjonelt prosjekt for ideer, kultur og konservativ kritikk, drevet i samarbeid med FAKS.",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/07/photo_5803028183501619775_w.jpg?resize=1200%2C1000&ssl=1",
+      "bodyHtml": "\n          <p>FØNIKS drives av FAKS, Foreningen for alle konservative studenter. Ambisjonen er å samle analyser, essays og kommentarer som tar idéhistorie, kultur og offentlig debatt på alvor.</p>\n          <p>Redaksjonen ønsker å revitalisere konservativ tenkning i Norge ved å hente frem glemte tradisjoner, kommentere samtidens nyhetsbilde og undersøke hva det vil si å bevare noe som er verdt å elske.</p>\n          <p>Prosjektet er uavhengig av partipolitikk. Målet er å bygge et rom for skarpere debatt, mer presise argumenter og en tydeligere redaksjonell form enn det et statisk speilnettsted kan gi.</p>\n        ",
+      "ctaLabel": "Les mer på foniks.faks.no",
+      "ctaUrl": "https://foniks.faks.no/om-oss/"
+    },
+    {
+      "slug": "support",
+      "title": "Støtt FØNIKS",
+      "intro": "FØNIKS publiseres med støtte fra FAKS. Vil du bidra til at prosjektet kan vokse videre, er FAKS det naturlige stedet å starte.",
+      "imageUrl": "https://i0.wp.com/foniks.faks.no/wp-content/uploads/2024/07/photo_5803028183501619775_w.jpg?resize=1200%2C1000&ssl=1",
+      "bodyHtml": "\n          <p>FAKS er en landsdekkende, partipolitisk uavhengig studentorganisasjon som samler konservative perspektiver på tvers av studiesteder og tradisjoner.</p>\n          <p>Når du støtter FAKS, støtter du også infrastrukturen rundt FØNIKS: redaksjonelt arbeid, publisering, arrangementer og et mer robust miljø for idéutvikling.</p>\n          <p>Dette nettstedet er bygd for å være et skarpere redaksjonelt utstillingsvindu. Den organisatoriske støtten ligger fortsatt hos FAKS.</p>\n        ",
+      "ctaLabel": "Besøk FAKS",
+      "ctaUrl": "https://www.faks.no"
+    }
+  ]
+}

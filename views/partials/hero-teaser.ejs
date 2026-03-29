@@ -1,0 +1,18 @@
+<article class="hero-teaser">
+  <div class="hero-teaser__content">
+    <h3 class="hero-teaser__headline">
+      <a href="<%= article.url %>" target="_blank" rel="noopener noreferrer"><%= article.title %></a>
+    </h3>
+
+    <div class="hero-teaser__meta">
+      <% if (article.kicker) { %>
+        <span><%= article.kicker %></span>
+      <% } %>
+      <time datetime="<%= article.publishedAt %>"><%= formatDate(article.publishedAt) %></time>
+    </div>
+  </div>
+
+  <a class="hero-teaser__media" href="<%= article.url %>" target="_blank" rel="noopener noreferrer">
+    <img src="<%= article.imageUrl %>" alt="<%= article.title %>" loading="lazy">
+  </a>
+</article>

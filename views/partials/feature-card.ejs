@@ -1,0 +1,18 @@
+<article class="feature-card <%= variant === 'lead' ? 'feature-card--lead feature-card--center' : '' %>">
+  <a class="feature-card__media" href="<%= article.url %>" target="_blank" rel="noopener noreferrer">
+    <img src="<%= article.imageUrl %>" alt="<%= article.title %>" loading="lazy">
+  </a>
+
+  <div class="feature-card__content">
+    <h3 class="feature-card__headline">
+      <a href="<%= article.url %>" target="_blank" rel="noopener noreferrer"><%= article.title %></a>
+    </h3>
+
+    <div class="feature-card__meta">
+      <% if (article.kicker) { %>
+        <span><%= article.kicker %></span>
+      <% } %>
+      <time datetime="<%= article.publishedAt %>"><%= formatDate(article.publishedAt) %></time>
+    </div>
+  </div>
+</article>

@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="no">
+<head>
+  <%- include("partials/head") %>
+</head>
+<body>
+  <%- include("partials/header", { activeNav }) %>
+
+  <main class="page-main shell">
+    <section class="status-card">
+      <p class="eyebrow">500</p>
+      <h1>Noe gikk galt.</h1>
+      <p>
+        Serveren klarte ikke å hente siden riktig. Prøv på nytt, eller gå tilbake til forsiden mens problemet undersøkes.
+      </p>
+      <div class="mission-band__actions">
+        <a class="cta-link" href="/">Til forsiden</a>
+        <a class="cta-link cta-link--secondary" href="/support">Støtt prosjektet</a>
+      </div>
+    </section>
+  </main>
+
+  <%- include("partials/footer") %>
+  <%- include("partials/search-overlay") %>
+  <script src="/js/app.js"></script>
+</body>
+</html>

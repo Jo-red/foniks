@@ -1,0 +1,15 @@
+<article class="story-row">
+  <div class="story-row__index"><%= String(index).padStart(2, "0") %></div>
+  <div>
+    <% if (article.kicker) { %>
+      <p class="eyebrow"><%= article.kicker %></p>
+    <% } %>
+    <h3 class="story-row__title">
+      <a href="<%= article.url %>" target="_blank" rel="noopener noreferrer"><%= article.title %></a>
+    </h3>
+    <% if (showExcerpt && article.excerpt) { %>
+      <p class="story-row__excerpt"><%= article.excerpt %></p>
+    <% } %>
+    <small class="story-row__meta"><%= formatDate(article.publishedAt) %></small>
+  </div>
+</article>

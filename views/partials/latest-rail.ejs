@@ -1,0 +1,13 @@
+<aside class="latest-rail panel">
+  <p class="eyebrow">Siste</p>
+  <h2 class="panel-heading">Et luftigere nyhetsrom for raske orienteringer.</h2>
+  <p class="panel-copy">
+    Denne spalten er bygget som en romsligere, mer adaptive “latest”-rail med tydelig rytme, lettere scanning og bedre mobiloppførsel.
+  </p>
+
+  <div class="story-list">
+    <% articles.forEach((article, index) => { %>
+      <%- include("./story-row", { article, index: index + 1, showExcerpt: false }) %>
+    <% }) %>
+  </div>
+</aside>

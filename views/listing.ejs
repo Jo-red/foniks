@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="no">
+<head>
+  <%- include("partials/head") %>
+</head>
+<body>
+  <%- include("partials/header", { activeNav }) %>
+
+  <main class="page-main">
+    <div class="page-shell shell">
+      <section class="page-heading">
+        <div>
+          <p class="eyebrow"><%= heading %></p>
+          <h1 class="page-heading__title"><%= heading %></h1>
+          <p class="page-heading__intro"><%= intro %></p>
+        </div>
+      </section>
+
+      <% if (featured) { %>
+        <section class="page-spotlight">
+          <div>
+            <a class="page-spotlight__media" href="<%= featured.url %>" target="_blank" rel="noopener noreferrer">
+              <img src="<%= featured.imageUrl %>" alt="<%= featured.title %>">
+            </a>
+            <% if (featured.kicker) { %>
+              <p class="eyebrow" style="margin-top: 18px;"><%= featured.kicker %></p>
+            <% } %>
+            <h2 class="page-spotlight__title">
+              <a href="<%= featured.url %>" target="_blank" rel="noopener noreferrer"><%= featured.title %></a>
+            </h2>
+            <% if (featured.excerpt) { %>
+              <p class="page-spotlight__summary"><%= featured.excerpt %></p>
+            <% } %>
+            <a class="cta-link" href="<%= featured.url %>" target="_blank" rel="noopener noreferrer">Les nå</a>
+          </div>
+
+          <aside class="page-sidebar">
+            <p class="eyebrow">Oversikt</p>
+            <h2 class="panel-heading">Strammere komponenter for listesider.</h2>
+            <p class="panel-copy">
+              Denne siden deler samme header, spacing-system, kortkomponenter og metadata som forsiden.
+            </p>
+            <div class="story-list">
+              <% articles.slice(1, 5).forEach((article, index) => { %>
+                <%- include("partials/story-row", { article, index: index + 1, showExcerpt: false }) %>
+              <% }) %>
+            </div>
+          </aside>
+        </section>
+      <% } %>
+
+      <section class="article-grid article-grid--listing">
+        <% articles.forEach((article) => { %>
+          <%- include("partials/article-card", { article }) %>
+        <% }) %>
+      </section>
+    </div>
+  </main>
+
+  <%- include("partials/footer") %>
+  <%- include("partials/search-overlay") %>
+  <script src="/js/app.js"></script>
+</body>
+</html>

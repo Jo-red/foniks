@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="no">
+<head>
+  <%- include("partials/head") %>
+</head>
+<body>
+  <%- include("partials/header", { activeNav }) %>
+
+  <main class="page-main">
+    <section class="home-feature shell">
+      <div class="home-feature__grid">
+        <h1 class="visually-hidden">Featured</h1>
+
+        <% if (heroLeft.length) { %>
+          <div class="home-feature__left" style="--stack-count: <%= heroLeft.length %>;">
+            <% heroLeft.forEach((article) => { %>
+              <%- include("partials/feature-card", { article, variant: "stack" }) %>
+            <% }) %>
+          </div>
+        <% } %>
+
+        <% if (heroCenter) { %>
+          <div class="home-feature__center">
+            <%- include("partials/feature-card", { article: heroCenter, variant: "lead" }) %>
+          </div>
+        <% } %>
+
+        <% if (heroRight.length) { %>
+          <aside class="home-feature__right" style="--stack-count: <%= heroRight.length %>;">
+            <div class="section-header section-header--small">
+              <h2 class="section-header__title section-header__title--small"><a href="/latest">Latest</a></h2>
+            </div>
+
+            <% heroRight.forEach((article) => { %>
+              <%- include("partials/hero-teaser", { article }) %>
+            <% }) %>
+          </aside>
+        <% } %>
+      </div>
+    </section>
+
+    <div class="section-stack shell">
+      <% sectionBlocks.forEach((block) => { %>
+        <%- include("partials/section-block", { section: block.section, articles: block.articles }) %>
+      <% }) %>
+    </div>
+  </main>
+
+  <%- include("partials/footer") %>
+  <%- include("partials/search-overlay") %>
+  <script src="/js/app.js"></script>
+</body>
+</html>

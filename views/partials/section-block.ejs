@@ -1,0 +1,12 @@
+<section class="section-block">
+  <div class="section-header">
+    <h2 class="section-header__title"><a href="<%= section.href %>"><%= section.name %></a></h2>
+    <a class="section-link" href="<%= section.href %>">See all</a>
+  </div>
+
+  <div class="article-grid">
+    <% articles.forEach((article) => { %>
+      <%- include("./article-card", { article }) %>
+    <% }) %>
+  </div>
+</section>

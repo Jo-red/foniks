@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="no">
+<head>
+  <%- include("partials/head") %>
+</head>
+<body>
+  <%- include("partials/header", { activeNav }) %>
+
+  <main class="page-main shell">
+    <section class="status-card">
+      <p class="eyebrow">404</p>
+      <h1>Fant ikke siden.</h1>
+      <p>
+        Adressen du prøvde å åpne finnes ikke i denne versjonen av FØNIKS. Gå tilbake til forsiden eller bruk søket.
+      </p>
+      <div class="mission-band__actions">
+        <a class="cta-link" href="/">Til forsiden</a>
+        <button class="cta-link cta-link--secondary" type="button" data-open-search>Åpne søk</button>
+      </div>
+    </section>
+  </main>
+
+  <%- include("partials/footer") %>
+  <%- include("partials/search-overlay") %>
+  <script src="/js/app.js"></script>
+</body>
+</html>

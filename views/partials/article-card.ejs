@@ -1,0 +1,19 @@
+<article class="article-card">
+  <a class="article-card__media" href="<%= article.url %>" target="_blank" rel="noopener noreferrer">
+    <img src="<%= article.imageUrl %>" alt="<%= article.title %>" loading="lazy">
+  </a>
+
+  <div class="article-card__content">
+    <% if (article.kicker) { %>
+      <p class="article-card__tag"><%= article.kicker %></p>
+    <% } %>
+
+    <h3 class="article-card__headline">
+      <a href="<%= article.url %>" target="_blank" rel="noopener noreferrer"><%= article.title %></a>
+    </h3>
+
+    <div class="article-card__meta">
+      <time datetime="<%= article.publishedAt %>"><%= formatDate(article.publishedAt) %></time>
+    </div>
+  </div>
+</article>

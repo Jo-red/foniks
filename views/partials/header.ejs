@@ -1,0 +1,48 @@
+<header class="site-header">
+  <div class="header-top">
+    <div class="header-top__inner shell">
+      <div class="header-top__block">
+        <button class="header-button header-button--search" type="button" data-open-search aria-label="Search">
+          <svg viewBox="0 0 30 30" aria-hidden="true" focusable="false">
+            <path d="M 13 3 C 7.489 3 3 7.489 3 13 C 3 18.511 7.489 23 13 23 C 15.397 23 17.597 22.149 19.322 20.736 L 25.293 26.707 A 1 1 0 1 0 26.707 25.293 L 20.736 19.322 C 22.149 17.597 23 15.397 23 13 C 23 7.489 18.511 3 13 3 Z M 13 5 C 17.43 5 21 8.57 21 13 C 21 17.43 17.43 21 13 21 C 8.57 21 5 17.43 5 13 C 5 8.57 8.57 5 13 5 Z"></path>
+          </svg>
+          <span class="visually-hidden">Search</span>
+        </button>
+      </div>
+
+      <div class="header-top__block header-top__block--brand">
+        <a class="wordmark" href="/"><%= site.name %></a>
+      </div>
+
+      <div class="header-top__block header-top__block--actions">
+        <a class="header-button header-button--plain" href="#/portal/signin">Sign In</a>
+        <a class="header-button header-button--filled" href="#/portal/signup">Subscribe</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="header-bottom">
+    <div class="header-bottom__inner shell">
+      <button
+        class="menu-toggle"
+        type="button"
+        data-toggle-menu
+        aria-expanded="false"
+        aria-controls="primary-nav"
+      >
+        Menu
+      </button>
+
+      <nav class="primary-nav" id="primary-nav" data-primary-nav>
+        <% navItems.forEach((item) => { %>
+          <a
+            class="primary-nav__link <%= activeNav === item.id ? 'is-active' : '' %>"
+            href="<%= item.href %>"
+          >
+            <%= item.label %>
+          </a>
+        <% }) %>
+      </nav>
+    </div>
+  </div>
+</header>
